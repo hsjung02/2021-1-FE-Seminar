@@ -5,10 +5,10 @@ import './App.css'
 
 function Home(){
   function movetostocks(e){
-    window.location.href='/stocks'
+    window.location.href='/2021-1-fe-seminar/stocks'
   }
   function movetoportfolio(e){
-    window.location.href='/portfolio'
+    window.location.href='/2021-1-fe-seminar/portfolio'
   }
   return(
     <div class='App'>
@@ -224,10 +224,10 @@ function App(){
     <Router>
       <div>
         <Switch>
-          <Route path="/stocks">
+          <Route path="/2021-1-fe-seminar/stocks">
             <Stocks></Stocks>
           </Route>
-          <Route path="/portfolio">
+          <Route path="/2021-1-fe-seminar/portfolio">
             <Portfolio></Portfolio>
           </Route>
           <Route path="/">
