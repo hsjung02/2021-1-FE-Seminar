@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2021-1-fe-seminar/static/css/main.91f46a9c.chunk.css",
-    "main.js": "/2021-1-fe-seminar/static/js/main.4e2bc81e.chunk.js",
-    "main.js.map": "/2021-1-fe-seminar/static/js/main.4e2bc81e.chunk.js.map",
+    "main.js": "/2021-1-fe-seminar/static/js/main.c1b58ab6.chunk.js",
+    "main.js.map": "/2021-1-fe-seminar/static/js/main.c1b58ab6.chunk.js.map",
     "runtime-main.js": "/2021-1-fe-seminar/static/js/runtime-main.2f88d6e8.js",
     "runtime-main.js.map": "/2021-1-fe-seminar/static/js/runtime-main.2f88d6e8.js.map",
     "static/js/2.0786dadc.chunk.js": "/2021-1-fe-seminar/static/js/2.0786dadc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f88d6e8.js",
     "static/js/2.0786dadc.chunk.js",
     "static/css/main.91f46a9c.chunk.css",
-    "static/js/main.4e2bc81e.chunk.js"
+    "static/js/main.c1b58ab6.chunk.js"
   ]
 }
