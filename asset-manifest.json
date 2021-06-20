@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2021-1-fe-seminar/static/css/main.91f46a9c.chunk.css",
+    "main.js": "/2021-1-fe-seminar/static/js/main.99e7f1c0.chunk.js",
+    "main.js.map": "/2021-1-fe-seminar/static/js/main.99e7f1c0.chunk.js.map",
+    "runtime-main.js": "/2021-1-fe-seminar/static/js/runtime-main.2f88d6e8.js",
+    "runtime-main.js.map": "/2021-1-fe-seminar/static/js/runtime-main.2f88d6e8.js.map",
+    "static/js/2.0786dadc.chunk.js": "/2021-1-fe-seminar/static/js/2.0786dadc.chunk.js",
+    "static/js/2.0786dadc.chunk.js.map": "/2021-1-fe-seminar/static/js/2.0786dadc.chunk.js.map",
+    "static/js/3.b162ef9c.chunk.js": "/2021-1-fe-seminar/static/js/3.b162ef9c.chunk.js",
+    "static/js/3.b162ef9c.chunk.js.map": "/2021-1-fe-seminar/static/js/3.b162ef9c.chunk.js.map",
+    "index.html": "/2021-1-fe-seminar/index.html",
+    "static/css/main.91f46a9c.chunk.css.map": "/2021-1-fe-seminar/static/css/main.91f46a9c.chunk.css.map",
+    "static/js/2.0786dadc.chunk.js.LICENSE.txt": "/2021-1-fe-seminar/static/js/2.0786dadc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f88d6e8.js",
+    "static/js/2.0786dadc.chunk.js",
+    "static/css/main.91f46a9c.chunk.css",
+    "static/js/main.99e7f1c0.chunk.js"
+  ]
+}
