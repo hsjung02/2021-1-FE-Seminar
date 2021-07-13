@@ -1,4 +1,4 @@
-## [Link](https://hsjung02.github.io/2021-1-fe-seminar/)
+# [Link](https://hsjung02.github.io/2021-1-fe-seminar/)
 
 
 # Getting Started with Create React App
